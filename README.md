@@ -2,5 +2,5 @@ A recipe webpage is a simple HTML page that showcases various recipes by organiz
 
 A recipe title using h2 tags
 A brief description of the dish using <p> tags.
-A list of ingredients displayed with <ul> (unordered list) tags.
-Step-by-step instructions using <ol> (ordered list) tags.
+A list of ingredients displayed with <ul> tags.
+Step-by-step instructions using <ol> tags.
